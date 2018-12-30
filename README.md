@@ -1,7 +1,8 @@
 # Astronomy Data Analysis_Python
 
-In the Master branch, I will only have this read me file as each branch will detail a different project analysis of different astronomical data (as well as a report of the data)
+In this Branch
 
-These small mini analysis all use Python to extract data from the observation data we are given about (Usually regarding temperature, distance and periodical data concerning stellar clusters and small Dwarf Galaxies) and then use functions and plot packages to create analytical representations and solutions to certain quandaries.
+In the first data set: I was given the declination and ascension of a list of nearby stars and needed to plot the elative paths of certain group of stars in the data set. This required specialized analytical plotting (i.e. Mollewieide Projections) to properly visualize the projection of stars from the cross sectional area of Earth. Then extracting certain information from the data set (I.e. rates of declination and position) I was able to segregate the number of circumpolar stars from the rest of the data set and so on.
 
-Actions like repurposing, factoring, integrating, create best fit analysis, creating T-scores and Chi-squares were quite common in each project along with other actions.
+
+In the second and third data set: I was given the apparent magnitude and Bolometric Band of stars from the Small Magelanic Cloud (SML) and the background stellar cluster (47 TUC). as well as their proper motion in both the horizontal and vertical axis. I Used shifting and trial and error if statements to separate the data into the individual systems and in turn, gather the information regarding the absolute magnitude of SML and thus, use the distance modulus to find out how far away it was from Earth.    
