@@ -1,7 +1,13 @@
 # Astronomy Data Analysis_Python
 
-In the Master branch, I will only have this read me file as each branch will detail a different project analysis of different astronomical data (as well as a report of the data)
+  In this branch:
 
-These small mini analysis all use Python to extract data from the observation data we are given about (Usually regarding temperature, distance and periodical data concerning stellar clusters and small Dwarf Galaxies) and then use functions and plot packages to create analytical representations and solutions to certain quandaries.
+I was given practice data (file: astro11) to show that I had the competent Python skill to extract the data and do the task given
 
-Actions like repurposing, factoring, integrating, create best fit analysis, creating T-scores and Chi-squares were quite common in each project along with other actions.
+The data was just a set of random numbers following a certain range. I needed to create a histogram taking into account the data of data for different increments of values.
+
+Then I needed to create a normalized Gaussian Distribution to acts as a best fit line for the histogram to see how good of a fit it was    
+
+Then optimize the histogram accordingly
+
+Similarly I was given another set of data (astro12) to create a scatter plot relation between the x and y axis and in turn create a best fit line and extract all the necessary parameters. 
