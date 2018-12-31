@@ -1,7 +1,11 @@
 # Astronomy Data Analysis_Python
 
-In the Master branch, I will only have this read me file as each branch will detail a different project analysis of different astronomical data (as well as a report of the data)
+In this Branch
 
-These small mini analysis all use Python to extract data from the observation data we are given about (Usually regarding temperature, distance and periodical data concerning stellar clusters and small Dwarf Galaxies) and then use functions and plot packages to create analytical representations and solutions to certain quandaries.
 
-Actions like repurposing, factoring, integrating, create best fit analysis, creating T-scores and Chi-squares were quite common in each project along with other actions.
+Using data that shows certain properties and compositions of the sun, I was able calculate the mean molecular mass of the sun and in turn predict (using best fit analysis) how the Pressure, Surface Temperature and density of the sun vary as a function from the center of the sun.
+
+Then use those models to compare (visually and analytically) with the standard solar model.
+
+
+The difference between the models shows that the data analysis given was not sufficient and does not take into account the quantum tunneling process that take place nearer to the center of the sun (particular talking about surface temperature and degenerate pressure. 
