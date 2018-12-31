@@ -1,7 +1,8 @@
 # Astronomy Data Analysis_Python
 
-In the Master branch, I will only have this read me file as each branch will detail a different project analysis of different astronomical data (as well as a report of the data)
+In this branch:
 
-These small mini analysis all use Python to extract data from the observation data we are given about (Usually regarding temperature, distance and periodical data concerning stellar clusters and small Dwarf Galaxies) and then use functions and plot packages to create analytical representations and solutions to certain quandaries.
 
-Actions like repurposing, factoring, integrating, create best fit analysis, creating T-scores and Chi-squares were quite common in each project along with other actions.
+Using data for the absolute magnitude of star in a globular cluster as a function of B-V passband filter magnitude, I was able to create a fiducial fit to laboratory data and in turn correct the data set for redshift and phase shift.
+
+Using the new plot for the globular cluster (accounted for redshift) I was able to compare than to certain isochrones to see which fits the given data set (globular cluster) allowing me to be able to tell the age of the cluster. 
